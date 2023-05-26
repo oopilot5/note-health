@@ -1,0 +1,19 @@
+site_name: 健康-养生
+
+copyright: Copyright © 晓忢
+
+nav:
+  - 主页: index.md
+  - 癌症认知总结: 癌症认知总结.md
+  - 身体调优-保持身体健康长寿: 身体调优-保持身体健康长寿.md
+
+theme:
+  name: material
+  language: 'zh'  #配置语言
+  palette:  # 颜色
+    primary: 'cyan'
+    accent: 'neon'
+plugins:
+  - search
+markdown_extentions:
+  - admonition #提示块
